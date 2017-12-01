@@ -12,5 +12,5 @@
   $('#month').val(1);
   $('#day').val(1);
   $('#year').val(1950);
-  document.getElementsByTagName('form')[0].submit();
+  $('form')[0].submit();
 })();
