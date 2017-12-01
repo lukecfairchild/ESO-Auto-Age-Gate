@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ESO Auto Age Gate
-// @version      0.1
+// @version      0.2
 // @description  Auto Enters a age on ESO's Age Gate
 // @author       Luke Fairchild
 // @match        https://www.elderscrollsonline.com/en-us/agegate
