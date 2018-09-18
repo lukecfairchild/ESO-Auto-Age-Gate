@@ -8,7 +8,7 @@
 
 (function() {
 	'use strict';
-return
+
 	$('#day').val('1').change();
 	$('#month').val('1').change();
 	$('#year').val('1950').change();
