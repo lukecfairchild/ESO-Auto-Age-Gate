@@ -3,7 +3,7 @@
 // @version      0.3
 // @description  Auto Enters a age on ESO's Age Gate
 // @author       Luke Fairchild
-// @match        https://www.elderscrollsonline.com/en-us/agegate?*
+// @match        https://www.elderscrollsonline.com/en-us/agegate*
 // ==/UserScript==
 
 (function() {
